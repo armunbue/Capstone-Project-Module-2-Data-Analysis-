@@ -1,7 +1,3 @@
-Berikut versi **tanpa emoji**, rapi, dan profesional untuk README GitHub capstone project Module 2.
-
----
-
 # Capstone Project – Module 2: Data Analysis
 
 TransJakarta Payment Behavior & Usage Analytics

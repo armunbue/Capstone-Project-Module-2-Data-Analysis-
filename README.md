@@ -2,8 +2,8 @@
 
 # **Study Cases : Public Transportation Transaction Transjakarta, Apr 2023**
 
-Muhammad Arief Munazat
-JCDSAH 024
+* Muhammad Arief Munazat
+* JCDSAH 024
 
 ---
 

@@ -107,26 +107,7 @@ Summary of insights generated:
 
 ---
 
-## 7. Repository Structure
-
-```
-├── data/
-│   ├── checked_transjakarta_dataset.csv
-│
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_eda.ipynb
-│   └── 03_feature_engineering.ipynb
-│
-├── tableau/
-│   └── transjakarta_dashboard.twbx
-│
-├── README.md
-```
-
----
-
-## 8. Objectives
+## 7. Objectives
 
 This project aims to demonstrate the ability to:
 
@@ -137,3 +118,6 @@ This project aims to demonstrate the ability to:
 * Develop KPI-focused dashboards
 * Communicate findings for business and operational improvements
 
+## Repository
+* Tableau: https://public.tableau.com/views/TransjakartaReviewApril2023/Dashboard1PaymentMethodUsageTrends?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+* Gdrive Viscode: https://drive.google.com/file/d/13NI5h3R_Fx_sHUw4Q9pjq6ALAvaUvKbd/view?usp=sharing
